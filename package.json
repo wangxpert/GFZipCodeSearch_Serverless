@@ -1,0 +1,16 @@
+{
+  "name": "gfzipcodesearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikola",
+  "license": "ISC",
+  "dependencies": {
+    "mssql": "^4.1.0",
+    "promise": "^8.0.1",
+    "superagent": "^3.8.2"
+  }
+}
